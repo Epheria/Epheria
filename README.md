@@ -31,6 +31,9 @@ Here are some ideas to get you started:
 <br>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Unity-FFFAFA?style=flat-square&logo=unity&logoColor=black"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Csharp-800080?style=flat-square&logo=csharp&logoColor=white"/></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/C-4169E1?style=flat-square&logo=c&logoColor=white"/></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/C++-4169E1?style=flat-square&logo=cplusplus&logoColor=white"/></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/Ruby-FFFAFA?style=flat-square&logo=ruby&logoColor=red"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/fastlane-FFFAFA?style=flat-square&logo=fastlane&logoColor=black"/></a>
 <br>
 <br>
