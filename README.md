@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 <div align="center">
 ☁️SNS LIST☁️
+  <a href="https://Epheria.github.io" target="_blank"><img src="https://img.shields.io/badge/DevBlog-A9A9A9?style=flat-square&logo=blogger&logoColor=white"/></a>
+  <a href="https://Epheria.github.io" target="_blank"><img src="https://img.shields.io/badge/Video-DB7093?style=flat-square&logo=youtube&logoColor=white"/></a>
 </div>
-
- <a href="https://Epheria.github.io" target="_blank"><img src="https://img.shields.io/badge/DevBlog-000000?style=flat-square&logo=blogger&logoColor=white"/></a>
 
 <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white">
 <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white">
