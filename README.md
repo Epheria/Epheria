@@ -22,14 +22,12 @@ Here are some ideas to get you started:
 <a href="https://Epheria.github.io" target="_blank"><img src="https://img.shields.io/badge/DevBlog-A9A9A9?style=flat-square&logo=blogger&logoColor=white"/></a>
 <a href="https://www.youtube.com/channel/UCDgw56U0mrq6jIkMpDKqz3g" target="_blank"><img src="https://img.shields.io/badge/Video-DB7093?style=flat-square&logo=youtube&logoColor=white"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/tpguq1104@naver.com-3CB371?style=flat-square&logo=gmail&logoColor=white"/></a>
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/뱃지레이블-배경색?style=뱃지모양&logo=로고&logoColor=로고색상"/></a>
 <br>
 <br>
 <br>
 <br>
 💡Used as main..
-<img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white">
-<img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white">
+<a href="" target="_blank"><img src="https://img.shields.io/badge/Unity-FFFAFA?style=flat-square&logo=unity&logoColor=black"/></a>
 
 
 <br>
