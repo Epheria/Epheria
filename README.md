@@ -23,9 +23,12 @@ Here are some ideas to get you started:
 <a href="https://www.youtube.com/channel/UCDgw56U0mrq6jIkMpDKqz3g" target="_blank"><img src="https://img.shields.io/badge/Video-DB7093?style=flat-square&logo=youtube&logoColor=white"/></a>
 <a href="tpguq1104@naver.com" target="_blank"><img src="https://img.shields.io/badge/Email-3CB371?style=flat-square&logo=gmail&logoColor=white"/></a>
 
+<br>
+<br>
+<br>
+<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=6810779s&layout=compact&theme=tokyonight)
 </div>
 
 <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white">
 <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white">
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Epheria&show_icons=true&theme=radical)
