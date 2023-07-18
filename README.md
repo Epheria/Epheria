@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://img.shields.io/badge/Unity-#778899?style=for-the-badge&logo=unity&logoColor=black">
+<img src="https://img.shields.io/badge/Unity-778899?style=for-the-badge&logo=unity&logoColor=black">
 <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Epheria&show_icons=true&theme=radical)
