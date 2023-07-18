@@ -28,6 +28,8 @@ Here are some ideas to get you started:
 <br>
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Epheria&layout=compact)](https://Epheria.com/anuraghazra/github-readme-stats)
+
+![Epheria's GitHub stats](https://github-readme-stats.vercel.app/api?username=Epheria&show_icons=true)
 </div>
 
 <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white">
