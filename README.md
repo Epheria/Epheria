@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 <br>
 <br>
 <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=6810779s&layout=compact&theme=tokyonight)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Epheria)](https://github.com/Epheria/github-readme-stats)
 </div>
 
 <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white">
