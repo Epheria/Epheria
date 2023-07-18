@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 <a href="" target="_blank"><img src="https://img.shields.io/badge/C-4169E1?style=flat-square&logo=c&logoColor=white"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/C++-4169E1?style=flat-square&logo=cplusplus&logoColor=white"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Ruby-FFFAFA?style=flat-square&logo=ruby&logoColor=red"/></a>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/xcode-00BFFF?style=flat-square&logo=xcode&logoColor=black"/></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/xcode-E6E6FA?style=flat-square&logo=xcode&logoColor=blue"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/fastlane-FFFAFA?style=flat-square&logo=fastlane&logoColor=black"/></a>
 <br>
 <br>
