@@ -16,9 +16,8 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-☁️SNS LIST☁️
+🔗Contacts.
 
-  
 <a href="https://Epheria.github.io" target="_blank"><img src="https://img.shields.io/badge/DevBlog-A9A9A9?style=flat-square&logo=blogger&logoColor=white"/></a>
 <a href="https://Epheria.github.io" target="_blank"><img src="https://img.shields.io/badge/Video-DB7093?style=flat-square&logo=youtube&logoColor=white"/></a>
 </div>
