@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 <br>
 <img src="https://img.shields.io/badge/Unity-FFFAFA?style=for-the-badge&logo=unity&logoColor=black">
 <img src="https://img.shields.io/badge/Csharp-800080?style=for-the-badge&logo=csharp&logoColor=white">
-<img src="https://img.shields.io/badge/fastlane-FFFAFA?style=for-the-badge&logo=csharp&logoColor=cian">
+<img src="https://img.shields.io/badge/fastlane-FFFAFA?style=for-the-badge&logo=fastlane&logoColor=cian">
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Unity-FFFAFA?style=flat-square&logo=unity&logoColor=black"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Csharp-800080?style=flat-square&logo=csharp&logoColor=white"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/fastlane-FFFAFA?style=flat-square&logo=fastlane&logoColor=cian"/></a>
