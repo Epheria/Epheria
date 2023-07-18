@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <a href="https://Epheria.github.io" target="_blank"><img src="https://img.shields.io/badge/DevBlog-A9A9A9?style=flat-square&logo=blogger&logoColor=white"/></a>
 <a href="https://www.youtube.com/channel/UCDgw56U0mrq6jIkMpDKqz3g" target="_blank"><img src="https://img.shields.io/badge/Video-DB7093?style=flat-square&logo=youtube&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/E-mail : tpguq1104@naver.com-A9A9A9?style=for-the-badge&logo=gmail&logoColor=red">
+<img src="https://img.shields.io/badge/E-mail-A9A9A9?style=for-the-badge&logo=gmail&logoColor=red">
 </div>
 
 <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white">
