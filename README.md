@@ -27,9 +27,11 @@ Here are some ideas to get you started:
 <br>
 <br>
 💡Used as main..
+<br>
+<br>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Unity-FFFAFA?style=flat-square&logo=unity&logoColor=black"/></a>
-
-
+<a href="" target="_blank"><img src="https://img.shields.io/badge/C#-800080?style=flat-square&logo=csharp&logoColor=white"/></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/fastlane-FFFAFA?style=flat-square&logo=fastlane&logoColor=cian"/></a>
 <br>
 <br>
 <br>
