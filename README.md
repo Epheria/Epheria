@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 <br>
 <br>
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Epheria&layout=compact)](https://Epheria.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Epheria&layout=compact)
 
 ![Epheria's GitHub stats](https://github-readme-stats.vercel.app/api?username=Epheria&show_icons=true)
 </div>
