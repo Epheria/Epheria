@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 <br>
 <br>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=#FFFFFF"/></a>
-<a href="" target="_blank"><img src="https://img.shields.io/badge/Csharp-FFFAFA?style=flat-square&logo=csharp&logoColor=#512BD4"/></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/Csharp-FFFAFA?style=flat-square&logo=csharp&logoColor=purple"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/C-4169E1?style=flat-square&logo=c&logoColor=white"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/C++-4169E1?style=flat-square&logo=cplusplus&logoColor=white"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Ruby-FFFAFA?style=flat-square&logo=ruby&logoColor=red"/></a>
