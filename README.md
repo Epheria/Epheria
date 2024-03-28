@@ -38,8 +38,8 @@ Here are some ideas to get you started:
 <a href="" target="_blank"><img src="https://img.shields.io/badge/fastlane-FFFAFA?style=flat-square&logo=fastlane&logoColor=black"/></a>
 
 <br>
-<a href="" target="_blank"><img src="https://img.shields.io/badge/python-FFFAFA?style=flat-square&logo=python&logoColor=blue"/></a>
-<a href="" target="_blank"><img src="https://img.shields.io/badge/numpy-FFFAFA?style=flat-square&logo=numpy&logoColor=blue"/></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/Python-FFFAFA?style=flat-square&logo=python&logoColor=blue"/></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/Numpy-FFFAFA?style=flat-square&logo=numpy&logoColor=blue"/></a>
 <br>
 <br>
 <br>
