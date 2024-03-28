@@ -36,14 +36,17 @@ Here are some ideas to get you started:
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Ruby-FFFAFA?style=flat-square&logo=ruby&logoColor=red"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Xcode-E6E6FA?style=flat-square&logo=xcode&logoColor=blue"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/fastlane-FFFAFA?style=flat-square&logo=fastlane&logoColor=black"/></a>
-
+<br>
+<br>
+💡Currently Studying..
+<br>
 <br>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Python-FFFAFA?style=flat-square&logo=python&logoColor=#3776AB"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Numpy-FFFAFA?style=flat-square&logo=numpy&logoColor=blue"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Scipy-FFFAFA?style=flat-square&logo=scipy&logoColor=#8CAAE6"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Jupyter-FFFAFA?style=flat-square&logo=jupyter&logoColor=#F37626"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Colab-FFFAFA?style=flat-square&logo=googlecolab&logoColor=#F9AB00"/></a>
-
+<a href="" target="_blank"><img src="https://img.shields.io/badge/Scikit-Learn-FFFAFA?style=flat-square&logo=scikitlearn&logoColor=#F7931E"/></a>
 <br>
 <br>
 <br>
