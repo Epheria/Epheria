@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 
 <br>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/python-FFFAFA?style=flat-square&logo=python&logoColor=blue"/></a>
-
+<a href="" target="_blank"><img src="https://img.shields.io/badge/numpy-FFFAFA?style=flat-square&logo=numpy&logoColor=blue"/></a>
 <br>
 <br>
 <br>
