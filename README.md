@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Python-FFFAFA?style=flat-square&logo=python&logoColor=#3776AB"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Numpy-FFFAFA?style=flat-square&logo=numpy&logoColor=blue"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Scipy-FFFAFA?style=flat-square&logo=scipy&logoColor=#8CAAE6"/></a>
-<a href="" target="_blank"><img src="https://img.shields.io/badge/Pandas-FFFAFA?style=flat-square&logo=pandas&logoColor=darkpurple"/></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/Pandas-FFFAFA?style=flat-square&logo=pandas&logoColor=DarkBlue"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Jupyter-FFFAFA?style=flat-square&logo=jupyter&logoColor=#F37626"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Colab-FFFAFA?style=flat-square&logo=googlecolab&logoColor=#F9AB00"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/ScikitLearn-FFFAFA?style=flat-square&logo=scikitlearn&logoColor=#F7931E"/></a>
