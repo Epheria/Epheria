@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Numpy-FFFAFA?style=flat-square&logo=numpy&logoColor=blue"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Scipy-FFFAFA?style=flat-square&logo=scipy&logoColor=#8CAAE6"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Jupyter-FFFAFA?style=flat-square&logo=jupyter&logoColor=#F37626"/></a>
-<a href="" target="_blank"><img src="https://img.shields.io/badge/Scipy-FFFAFA?style=flat-square&logo=scipy&logoColor=blue"/></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/Colab-FFFAFA?style=flat-square&logo=googlecolab&logoColor=#F9AB00"/></a>
 
 <br>
 <br>
