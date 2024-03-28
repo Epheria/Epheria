@@ -38,6 +38,8 @@ Here are some ideas to get you started:
 <a href="" target="_blank"><img src="https://img.shields.io/badge/fastlane-FFFAFA?style=flat-square&logo=fastlane&logoColor=black"/></a>
 <br>
 <br>
+<br>
+<br>
 💡Currently Studying..
 <br>
 <br>
