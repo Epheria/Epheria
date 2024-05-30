@@ -50,6 +50,9 @@ Here are some ideas to get you started:
 <a href="https://jupyter.org/" target="_blank"><img src="https://img.shields.io/badge/Jupyter-FFFAFA?style=flat-square&logo=jupyter&logoColor=#F37626"/></a>
 <a href="https://colab.research.google.com/?hl=ko" target="_blank"><img src="https://img.shields.io/badge/Colab-FFFAFA?style=flat-square&logo=googlecolab&logoColor=#F9AB00"/></a>
 <a href="https://scikit-learn.org/stable/" target="_blank"><img src="https://img.shields.io/badge/ScikitLearn-FFFAFA?style=flat-square&logo=scikitlearn&logoColor=#F7931E"/></a>
+<a href="https://scikit-learn.org/stable/" target="_blank"><img src="https://img.shields.io/badge/Pytorch-FFFAFA?style=flat-square&logo=pytorch&logoColor=#EE4C2C"/></a>
+<a href="https://scikit-learn.org/stable/" target="_blank"><img src="https://img.shields.io/badge/ScikitLearn-FFFAFA?style=flat-square&logo=scikitlearn&logoColor=#F7931E"/></a>
+
 <br>
 <br>
 <br>
